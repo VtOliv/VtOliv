@@ -1,23 +1,30 @@
-# VtOliv 
-## <img src="https://img.shields.io/badge/VtOliv-Developer-blue"/>
+<h1 align="center">🦇 Vitor de Oliveira</h1>
 
-
-
-## ♚ Skills ♚
-<p align="left">
-  ♞. <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/><br>
-  ♞. <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/><br>
-  ♞. <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/><br>
-  ♞. <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/><br>
-  ♞. <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/><br>
-  ♞. <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/><br>
-  ♞. <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/><br>
-  ♞. <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/><br>
-  	
+<p align="center">
+  <img src="https://img.shields.io/badge/VtOliv-Developer-blue"/>
 </p>
 
-## ♚ Contact ♚
-<p align="left">
+
+<p align="center">
+   <i>Desenvolvedor Java Fullstack | Entusiasta em Front-end</i>
+</p>
+
+## 🛠️ Skills 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,angular,eclipse,nodejs,java,mysql,git,github,linux,mongodb,react,spring&perline=5" alt="Tech Stack"/>
+  </a>
+</p>
+
+## 📊 Stats
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Vtoliv&show_icons=true&theme=radical" alt="João Pedro GitHub Stats"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vtoliv&layout=compact&langs_count=7&theme=tokyonight" alt="Top Languages"/>
+</p>
+
+## 📫 Contact
+<p align="center">
   <a href="https://www.linkedin.com/in/vitor-oliveira-08613a106/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitor-oliveira-08613a106/" /></a>
   
