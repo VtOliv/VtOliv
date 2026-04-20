@@ -19,7 +19,7 @@
 ## 📊 Stats
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Vtoliv&show_icons=true&theme=radical" alt="João Pedro GitHub Stats"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Vtoliv&show_icons=true&theme=radical" alt="Vitor GitHub Stats"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vtoliv&layout=compact&langs_count=7&theme=tokyonight" alt="Top Languages"/>
 </p>
 
